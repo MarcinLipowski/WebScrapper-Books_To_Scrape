@@ -1,2 +1,7 @@
 requests>=2.31,<3
 beautifulsoup4>=4.12,<5
+lxml>=4.9,<7
+
+# Optional (only if you use --export-xlsx)
+# pandas>=2.0,<3
+# openpyxl>=3.0,<4

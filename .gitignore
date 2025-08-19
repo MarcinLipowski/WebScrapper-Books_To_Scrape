@@ -12,6 +12,7 @@ ENV/
 
 # PyCharm
 .idea/
+main.py
 
 # Jupyter
 .ipynb_checkpoints/

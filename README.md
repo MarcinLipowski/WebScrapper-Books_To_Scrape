@@ -11,5 +11,5 @@ This project was built for learning and portfolio purposes.
 ## Installation
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/book-scraper.git
+git clone https://github.com/MarcinLipowski/WebScrapper-Books_To_Scrape.git
 cd book-scraper
